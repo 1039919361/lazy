@@ -1,8 +1,3 @@
-/**
- * @author: Jason.占友伟 zhanyouwei@icloud.com
- * Created on 16/3/21.
- */
-
 (function (root, factory) {
 	if (typeof define === 'function' && define.amd) {
 		define(function () {
